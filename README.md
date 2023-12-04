@@ -5,7 +5,7 @@
 <p>Advanced React and Frontend libraries.</p>
 <b>💑I'm looking to collaborate on:</b>
 <p>FrontEnd Projects</p>
-<b>Ask me about:</b>
+<b>🤔Ask me about:</b>
 <p>CSS, JavaScript, React and more about frontend development.</p>
 <b>🎈Fun fact:</b>
 <p>I also create memes 1 post in a month.</p>
