@@ -1,17 +1,17 @@
 <h1>🌍About Me:</h1>
-<h5>🔨I'm currently working on:</h5>
+<b>🔨I'm currently working on:</b>
 <p>Improving my frontend skills.</p>
 
-<h5>🍃I'm currently learning:</h5>
+<b>🍃I'm currently learning:</b>
 <p>Advanced React and Frontend libraries.</p>
 
-<h5>💑I'm looking to collaborate on:</h5>
+<b>💑I'm looking to collaborate on:</b>
 <p>FrontEnd Projects</p>
 
-<h5>Ask me about:</h5>
+<b>Ask me about:</b>
 <p>CSS, JavaScript, React and more about frontend development.</p>
 
-<h5>🎈Fun fact:</h5>
+<b>🎈Fun fact:</b>
 <p>I also create memes 1 post in a month.</p>
 
 <!---
