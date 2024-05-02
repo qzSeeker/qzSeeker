@@ -26,4 +26,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qzseeker&show_icons=true&locale=en&layout=compact" alt="qzseeker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qzseeker&" alt="qzseeker" /></p>
