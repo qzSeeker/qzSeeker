@@ -1,17 +1,15 @@
-<h1 align="center">Hi 👋, I'm qzSeeker</h1>
+<h1 align="center">Hi 👋, I'm Arpit Yadav (qzSeeker)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qzseeker&label=Profile%20views&color=0e75b6&style=flat" alt="qzseeker" /> </p>
 
 <p align="left"> <a href="https://twitter.com/arpityadv_" target="blank"><img src="https://img.shields.io/twitter/follow/arpityadv_?logo=twitter&style=for-the-badge" alt="arpityadv_" /></a> </p>
 
-- 🔭 I’m currently working on **learning Next.Js**
+- 🔭 I’m currently working on **Building Projects**
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://arpityadv.netlify.com](https://arpityadv.netlify.com)
+- 👨‍💻 All of my projects are available at [https://qzseeker.netlify.com](https://qzseeker.netlify.com)
 
-- 💬 Ask me about **react.Js, next.js**
+- 💬 Ask me about **Frontend development, React**
 
 - 📫 How to reach me **qzseeker@gmail.com**
 
@@ -26,3 +24,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=qzseeker&show_icons=true&locale=en&layout=compact" alt="qzseeker" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qzseeker&label=Profile%20views&color=0e75b6&style=flat" alt="qzseeker" /> </p>
