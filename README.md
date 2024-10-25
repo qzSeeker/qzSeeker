@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arpit Yadav (qzSeeker)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/qzseeker" target="blank"><img src="https://img.shields.io/twitter/follow/qzseeker?logo=twitter&style=for-the-badge" alt="qzseeker" /></a> </p>
 
-- 🔭 I’m currently working on **Building Projects**
+- 🔭 I’m currently working on **Building internSteps**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://qzseeker.netlify.com](https://qzseeker.netlify.com)
-
-- 💬 Ask me about **Frontend development, React**
 
 - 📫 How to reach me **qzseeker@gmail.com**
 
